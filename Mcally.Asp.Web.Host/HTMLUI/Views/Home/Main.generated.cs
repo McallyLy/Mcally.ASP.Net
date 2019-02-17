@@ -746,8 +746,8 @@ WriteLiteral("></script>\r\n</head>\r\n<body>\r\n    <div");
 
 WriteLiteral(" id=\"container\"");
 
-WriteLiteral(" class=\"\r\n\r\n\t    \t effect effect\r\n\t    \t footer-fixed\r\n\t    \t mainnav-fixed\r\n\r\n\t " +
-"   \t aside-fixed\r\n\r\n\t    \t aside-float\r\n\r\n\t    \tmainnav-lg\r\n    \t\"");
+WriteLiteral(" class=\"effect effect footer-fixed mainnav-fixed aside-fixed aside-float mainnav-" +
+"lg \"");
 
 WriteLiteral(">\r\n\r\n        <header");
 
@@ -1081,9 +1081,9 @@ WriteLiteral(" class=\"img-circle img-sm\"");
 
 WriteLiteral(" alt=\"Profile Picture\"");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 19358), Tuple.Create("\"", 19405)
-, Tuple.Create(Tuple.Create("", 19364), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/9.png")
-, 19364), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 19296), Tuple.Create("\"", 19343)
+, Tuple.Create(Tuple.Create("", 19302), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/9.png")
+, 19302), false)
 );
 
 WriteLiteral(">\r\n                                                    </div>\r\n                  " +
@@ -1122,9 +1122,9 @@ WriteLiteral(" class=\"img-circle img-sm\"");
 
 WriteLiteral(" alt=\"Profile Picture\"");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 20238), Tuple.Create("\"", 20285)
-, Tuple.Create(Tuple.Create("", 20244), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/3.png")
-, 20244), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 20176), Tuple.Create("\"", 20223)
+, Tuple.Create(Tuple.Create("", 20182), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/3.png")
+, 20182), false)
 );
 
 WriteLiteral(">\r\n                                                    </div>\r\n                  " +
@@ -1423,9 +1423,9 @@ WriteLiteral(" class=\"pad-btm\"");
 
 WriteLiteral(">\r\n                                                <img");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 27168), Tuple.Create("\"", 27218)
-, Tuple.Create(Tuple.Create("", 27174), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-2.jpg")
-, 27174), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 27106), Tuple.Create("\"", 27156)
+, Tuple.Create(Tuple.Create("", 27112), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-2.jpg")
+, 27112), false)
 );
 
 WriteLiteral(" alt=\"thumbs\"");
@@ -1437,9 +1437,9 @@ WriteLiteral(" class=\"pad-btm\"");
 
 WriteLiteral(">\r\n                                                <img");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 27404), Tuple.Create("\"", 27454)
-, Tuple.Create(Tuple.Create("", 27410), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-3.jpg")
-, 27410), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 27342), Tuple.Create("\"", 27392)
+, Tuple.Create(Tuple.Create("", 27348), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-3.jpg")
+, 27348), false)
 );
 
 WriteLiteral(" alt=\"thumbs\"");
@@ -1451,9 +1451,9 @@ WriteLiteral(" class=\"pad-btm\"");
 
 WriteLiteral(">\r\n                                                <img");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 27640), Tuple.Create("\"", 27690)
-, Tuple.Create(Tuple.Create("", 27646), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-1.jpg")
-, 27646), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 27578), Tuple.Create("\"", 27628)
+, Tuple.Create(Tuple.Create("", 27584), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-1.jpg")
+, 27584), false)
 );
 
 WriteLiteral(" alt=\"thumbs\"");
@@ -1465,9 +1465,9 @@ WriteLiteral(" class=\"pad-btm\"");
 
 WriteLiteral(">\r\n                                                <img");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 27876), Tuple.Create("\"", 27926)
-, Tuple.Create(Tuple.Create("", 27882), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-4.jpg")
-, 27882), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 27814), Tuple.Create("\"", 27864)
+, Tuple.Create(Tuple.Create("", 27820), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-4.jpg")
+, 27820), false)
 );
 
 WriteLiteral(" alt=\"thumbs\"");
@@ -1479,9 +1479,9 @@ WriteLiteral(" class=\"pad-btm\"");
 
 WriteLiteral(">\r\n                                                <img");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 28112), Tuple.Create("\"", 28162)
-, Tuple.Create(Tuple.Create("", 28118), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-5.jpg")
-, 28118), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 28050), Tuple.Create("\"", 28100)
+, Tuple.Create(Tuple.Create("", 28056), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-5.jpg")
+, 28056), false)
 );
 
 WriteLiteral(" alt=\"thumbs\"");
@@ -1493,9 +1493,9 @@ WriteLiteral(" class=\"pad-btm\"");
 
 WriteLiteral(">\r\n                                                <img");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 28348), Tuple.Create("\"", 28398)
-, Tuple.Create(Tuple.Create("", 28354), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-6.jpg")
-, 28354), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 28286), Tuple.Create("\"", 28336)
+, Tuple.Create(Tuple.Create("", 28292), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img//thumbs/mega-menu-6.jpg")
+, 28292), false)
 );
 
 WriteLiteral(" alt=\"thumbs\"");
@@ -1883,9 +1883,9 @@ WriteLiteral(">\r\n                                                    <img");
 
 WriteLiteral(" class=\"img-circle img-xs\"");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 37624), Tuple.Create("\"", 37671)
-, Tuple.Create(Tuple.Create("", 37630), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/2.png")
-, 37630), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 37562), Tuple.Create("\"", 37609)
+, Tuple.Create(Tuple.Create("", 37568), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/2.png")
+, 37568), false)
 );
 
 WriteLiteral(" alt=\"Profile Picture\"");
@@ -2401,7 +2401,8 @@ WriteLiteral(@"@"" + message);
                             $(""#messageCount"").html(1);
                         }
                     }
-                </script><nav");
+                </script>
+                <nav");
 
 WriteLiteral(" id=\"mainnav-container\"");
 
@@ -2445,9 +2446,9 @@ WriteLiteral(">管理员</span>\r\n                                             
 
 WriteLiteral(" class=\"img-circle img-sm img-border\"");
 
-WriteAttribute("src", Tuple.Create(" src=\"", 54719), Tuple.Create("\"", 54766)
-, Tuple.Create(Tuple.Create("", 54725), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/1.png")
-, 54725), false)
+WriteAttribute("src", Tuple.Create(" src=\"", 54675), Tuple.Create("\"", 54722)
+, Tuple.Create(Tuple.Create("", 54681), Tuple.Create<System.Object, System.Int32>(Href("~/Content/common/img/profile-photos/1.png")
+, 54681), false)
 );
 
 WriteLiteral(" alt=\"Profile Picture\"");

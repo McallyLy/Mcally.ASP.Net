@@ -129,42 +129,13 @@ WriteAttribute("src", Tuple.Create(" src=\"", 1004), Tuple.Create("\"", 1061)
 , 1010), false)
 );
 
-WriteLiteral(@"></script>
-
-    <!--=================================================
-
-    REQUIRED
-    You must include this in your project.
-
-
-    RECOMMENDED
-    This category must be included but you may modify which plugins or components which should be included in your project.
-
-
-    OPTIONAL
-    Optional plugins. You may choose whether to include it in your project or not.
-
-
-    Detailed information and more samples can be found in the document.
-
-    =================================================-->
-    <!-- Create your own class to load custum image [ SAMPLE ]-->
-
-
-</head>
-
-<!--TIPS-->
-<!--You may remove all ID or Class names which contain ""demo-"", they are only used for demonstration. -->
-
-<body>
-    <div");
+WriteLiteral("></script>\r\n\r\n\r\n\r\n</head>\r\n\r\n\r\n<body>\r\n    <div");
 
 WriteLiteral(" id=\"container\"");
 
 WriteLiteral(" class=\"cls-container\"");
 
-WriteLiteral(">\r\n\r\n        <!-- BACKGROUND IMAGE -->\r\n        <!--=============================" +
-"======================-->\r\n        <div");
+WriteLiteral(">\r\n\r\n\r\n        <div");
 
 WriteLiteral(" id=\"bg-overlay\"");
 
@@ -172,8 +143,7 @@ WriteLiteral(" class=\"bg-img\"");
 
 WriteLiteral(" style=\"background-image: url(~/Content/common/img/bg-img/bg-img-oa.jpg)\"");
 
-WriteLiteral("></div>\r\n\r\n\r\n        <!-- LOGIN FORM -->\r\n        <!--===========================" +
-"========================-->\r\n        <div");
+WriteLiteral("></div>\r\n\r\n\r\n        <div");
 
 WriteLiteral(" class=\"cls-content\"");
 
@@ -341,22 +311,9 @@ WriteLiteral(@">
     </div>
     <!--===================================================-->
     <!-- END OF CONTAINER -->
-    <script>
-        var err = ""#(error??)"";
-        if (err) {
-            $.niftyNoty({
-                type: 'danger',
-                message: err,
-                container: 'floating',
-                timer: 5000
-            });
-        }
-    </script>
+    ");
 
-</body>
-</html>
-
-");
+WriteLiteral("\r\n\r\n</body>\r\n</html>\r\n\r\n");
 
         }
     }

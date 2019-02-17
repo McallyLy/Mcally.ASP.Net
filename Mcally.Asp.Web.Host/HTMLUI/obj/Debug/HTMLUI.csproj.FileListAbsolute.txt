@@ -99,3 +99,4 @@ C:\Users\Mcally\Desktop\C#\Mcally.ASP.Net\Mcally.Asp.Web.Host\HTMLUI\obj\Debug\H
 C:\Users\Mcally\Desktop\C#\Mcally.ASP.Net\Mcally.Asp.Web.Host\HTMLUI\obj\Debug\HTMLUI.csproj.CopyComplete
 C:\Users\Mcally\Desktop\C#\Mcally.ASP.Net\Mcally.Asp.Web.Host\HTMLUI\obj\Debug\HTMLUI.dll
 C:\Users\Mcally\Desktop\C#\Mcally.ASP.Net\Mcally.Asp.Web.Host\HTMLUI\obj\Debug\HTMLUI.pdb
+C:\Users\Mcally\Desktop\C#\Mcally.ASP.Net\Mcally.Asp.Web.Host\HTMLUI\obj\Debug\HTMLUI.csprojAssemblyReference.cache
